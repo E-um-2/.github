@@ -14,8 +14,9 @@
 11회 인천광역시 공공데이터 경진대회
 ## Team - 이음이
 
-![image](https://github.com/user-attachments/assets/1b9c7a9a-b958-4fbf-af4a-2cc70d2caf73)
-
-![image](https://github.com/user-attachments/assets/f36fa25d-2c2e-4ada-b87d-61aaaa3cabf2)
-
-![image](https://github.com/user-attachments/assets/8e9cc7aa-4523-4ed5-8743-2b3cf363f1c5)
+[시스템 아키텍쳐]
+![image](https://github.com/user-attachments/assets/5f418e48-1ba6-40c2-9a5f-3db3c7317480)
+[플로우차트]
+![image](https://github.com/user-attachments/assets/a3d4499a-e3d5-48da-a416-b5af60f7ce9f)
+[피그마]
+![image](https://github.com/user-attachments/assets/b75dd877-c5cd-4b75-9bcf-b47f8595ab78)
