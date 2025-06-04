@@ -15,6 +15,7 @@
 ## Team - 이음이
 
 [시스템 아키텍쳐]
+
 ![image](https://github.com/user-attachments/assets/5f418e48-1ba6-40c2-9a5f-3db3c7317480)
 
 [플로우차트]
